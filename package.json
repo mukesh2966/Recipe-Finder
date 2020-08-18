@@ -6,7 +6,7 @@
   "scripts": {
     "dev": "webpack --mode development",
     "build": "webpack --mode production",
-    "start1": "webpack-dev-server --mode development --open",
+    "start:Local": "webpack-dev-server --mode development --open",
     "start": "node server.js"
   },
   "author": "Mukesh1",
